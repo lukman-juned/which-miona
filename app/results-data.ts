@@ -14,26 +14,32 @@ export type Result = {
 export const results: Result[] = [
   {
     key: "soft",
-    title: "Soft Miona 🌸",
+    title: "Soft Miona",
     desc: "Gentle & comforting",
     image: "/results/soft.png",
   },
   {
     key: "chaotic",
-    title: "Chaotic Miona 🔥",
+    title: "Chaotic Miona",
     desc: "Fun & unpredictable",
     image: "/results/chaotic.png",
   },
   {
     key: "sleepy",
-    title: "Sleepy Miona 😴",
+    title: "Sleepy Miona",
     desc: "Loves comfort",
     image: "/results/sleepy.png",
   },
   {
     key: "cool",
-    title: "Cool Miona 🖤",
+    title: "Cool Miona",
     desc: "Calm & mysterious",
     image: "/results/cool.png",
+  },
+  {
+    key: "isami",
+    title: "Isami's Miona",
+    desc: "Isami's professional simp",
+    image: "/results/isami.png",
   },
 ];
