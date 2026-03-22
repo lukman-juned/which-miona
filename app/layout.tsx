@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Quiz App",
-  description: "Simple Quiz App",
+  title: "Miona's poomang",
+  description: "Which Miona Are You?",
 };
 
 export default function RootLayout({
